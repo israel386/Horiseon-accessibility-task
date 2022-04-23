@@ -25,3 +25,6 @@ SO THAT the site is optimized for search engines.
 ![screenshots](assets/screenshots/Screenshot%202022-04-23%20125547.png)
 ![screenshots](assets/screenshots/Screenshot%202022-04-23%20125617.png)
 ![screenshots](assets/screenshots/Screenshot%202022-04-23%20125635.png)
+
+## Note
+All acceptance criteria have been met, code follows a logical structure and has been updated to semantic HTML elemets as well as accessible alt attributes. 
