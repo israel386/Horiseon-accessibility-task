@@ -60,7 +60,6 @@ header nav ul li a {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    position: relative;
 }
 
 /* end of hero*/
@@ -79,7 +78,6 @@ header nav ul li a {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    position: absolute;
 }
 
 .search-engine-optimization {
